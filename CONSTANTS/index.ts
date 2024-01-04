@@ -7,57 +7,57 @@ export const people: { name: string; role: string; imageUrl: string }[] = [
     {
         name: "James Reynolds",
         role: "High School Guidance Counselor",
-        imageUrl: "https://images.pexels.com/photos/5212317/pexels-photo-5212317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        imageUrl: "https://images.pexels.com/photos/10955559/pexels-photo-10955559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     },
     {
         name: "Rachel Carter",
         role: "Principal's Assistant",
-        imageUrl: "https://images.pexels.com/photos/5212317/pexels-photo-5212317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        imageUrl: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=600",
     },
     {
         name: "Brandon Davis",
         role: "Science Lab Coordinator",
-        imageUrl: "https://images.pexels.com/photos/5212317/pexels-photo-5212317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        imageUrl: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     },
     {
         name: "Megan Turner",
         role: "Language Arts Curriculum Specialist",
-        imageUrl: "https://images.pexels.com/photos/5212317/pexels-photo-5212317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        imageUrl: "https://images.pexels.com/photos/1764563/pexels-photo-1764563.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     },
     {
         name: "Ethan Parker",
         role: "Elementary School Librarian",
-        imageUrl: "https://images.pexels.com/photos/5212317/pexels-photo-5212317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        imageUrl: "https://images.pexels.com/photos/7582775/pexels-photo-7582775.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     },
     {
         name: "Olivia Mitchell",
         role: "Physical Education Instructor",
-        imageUrl: "https://images.pexels.com/photos/5212317/pexels-photo-5212317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        imageUrl: "https://images.pexels.com/photos/4929247/pexels-photo-4929247.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     },
     {
         name: "Dylan Sanchez",
         role: "Technology Integration Specialist",
-        imageUrl: "https://images.pexels.com/photos/5212317/pexels-photo-5212317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        imageUrl: "https://images.pexels.com/photos/6325939/pexels-photo-6325939.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     },
     {
         name: "Lauren Foster",
         role: "Special Education Coordinator",
-        imageUrl: "https://images.pexels.com/photos/5212317/pexels-photo-5212317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        imageUrl: "https://images.pexels.com/photos/712521/pexels-photo-712521.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     },
     {
         name: "Tyler Morgan",
         role: "Music Department Chair",
-        imageUrl: "https://images.pexels.com/photos/5212317/pexels-photo-5212317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        imageUrl: "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     },
     {
         name: "Avery Johnson",
         role: "School Psychologist",
-        imageUrl: "https://images.pexels.com/photos/5212317/pexels-photo-5212317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        imageUrl: "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     },
     {
         name: "Jordan Carter",
         role: "Art Department Coordinator",
-        imageUrl: "https://images.pexels.com/photos/5212317/pexels-photo-5212317.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        imageUrl: "https://images.pexels.com/photos/6571363/pexels-photo-6571363.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     },
 ];
 
