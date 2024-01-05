@@ -27,7 +27,7 @@ export default function Contact() {
                         </div>
                         <div className="ml-6 grow">
                             <p className="mb-2 font-bold ">Email</p>
-                            <p className="text-sm text-neutral-500">sman1netral@gmail.com</p>
+                            <p className="text-sm text-neutral-500">collage.of.arrizona@gmail.com</p>
                         </div>
                     </div>
                 </div>
@@ -65,7 +65,7 @@ export default function Contact() {
                         </div>
                         <div className="ml-6 grow">
                             <p className="mb-2 font-bold ">Instagram</p>
-                            <p className="text-neutral-500 hover:underline cursor-default">@sman1netral</p>
+                            <p className="text-neutral-500 hover:underline cursor-default">@collage_of_arrizona</p>
                         </div>
                     </div>
                 </div>
